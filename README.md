@@ -22,9 +22,6 @@ The game recreates the basic mechanics of the classic Flappy Bird game where the
 2. Open the project in Visual Studio.
 3. Run the project.
 
-## 📸 Game Preview
-
-(Add screenshots of the game here)
 
 ## 📚 Learning Purpose
 
